@@ -246,6 +246,7 @@ footer{
 @media (max-width: 533px){
 .box{
     border: none;
+    
 }
 .proj-box{
     margin: 0.75em;
@@ -300,6 +301,8 @@ border-radius: 0;
 background: #e76f51;
 border: 15px solid #264653;
 border: none;
+padding-bottom: 20px;
+padding-top: 20px;
 
 }
 .win2{
@@ -309,7 +312,8 @@ border: none;
     margin: 0;
     border: none;
     background-color: #8ac926;
-    paddin-bottom: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
     
 }
 
@@ -323,6 +327,7 @@ border: none;
     margin-top: 0;
     border: none;
     background-color: #264653;
+    color: #8ecae6;
 }
 main {
     text-align: center;
