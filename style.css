@@ -28,9 +28,7 @@ img {
 }
 /* HERO */
 /* HERO - CIRCLE -START*/
-.hero{
-    margin: 3em 0
-}
+
 
  #outer-circle {
      background: #023047;
@@ -74,7 +72,9 @@ img {
 }
 /* HERO - CIRCLE - END */
 
-
+.hero {
+    margin: 3em 0
+}
 .container .hero {
     display: flex;
     flex-direction: column;
@@ -244,6 +244,10 @@ footer{
 
 
 @media (max-width: 533px){
+.hero {
+        margin:0;
+        margin-top: 0.9em
+    }
 .box{
     border: none;
 }
